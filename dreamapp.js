@@ -48,7 +48,8 @@ if (question === 'indoor'){
 // creating and using objects. From the Stringing Characters Together module I created a new line a 
 // string using /n, and utilized template literals with `backticks and ${}. From the Control Structures 
 // and Logic module I used comparison operators (<=, <, ===), logical operator &&, and conditionals if, 
-// else, if else. 
+// else, if else. For this example I completed the indoor plant option but did not complete if the user 
+// chose outdoor for this exercise.
 
 // Pseudocode – build an array of the types of indoor plants sorted by row based off of the amount of sunlight they tolerate. 
 
